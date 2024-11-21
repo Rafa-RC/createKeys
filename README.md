@@ -72,3 +72,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # createKeys
 >>>>>>> cd84358cbcb42ad3c7468f2e8646524a3ceb1a28
+
+# createKeys
+
+## Guía para Descargar e Instalar un Proyecto de GitHub
+
+### Paso 1: Instalar Git
+
+#### Windows
+1. Ve a la [página de descargas de Git](https://git-scm.com/downloads).
+2. Descarga el instalador y ejecútalo.
+3. Sigue las instrucciones del instalador.
+
+#### macOS
+1. Abre la Terminal.
+2. Ejecuta el siguiente comando para instalar Git usando Homebrew:
+   ```sh
+   brew install git
