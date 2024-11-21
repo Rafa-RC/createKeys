@@ -42,11 +42,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
-# createKeys
->>>>>>> cd84358cbcb42ad3c7468f2e8646524a3ceb1a28
-
-# createKeys
-
 ## Guía para Descargar e Instalar un Proyecto de GitHub
 
 ### Paso 1: Instalar Git
